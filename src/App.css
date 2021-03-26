@@ -1,0 +1,26 @@
+h1{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.input-wrapper{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  margin:auto;
+  padding:2rem;
+
+}
+
+ul {
+  background: #3399ff;
+  padding: 20px;
+}
+ul li {
+  background: #cce5ff;
+  margin: 1rem;
+  display:flex;
+  justify-content:space-evenly;
+  padding:1rem;
+}
